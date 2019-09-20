@@ -259,6 +259,7 @@ class ProductList extends Component{
        
         <Total total={this.state.total}/>
         <div class="form-check">
+          Pay via<br></br>
   <label class="form-check-label">
     <input type="checkbox" class="form-check-input" value=""/>Cash
   </label>
